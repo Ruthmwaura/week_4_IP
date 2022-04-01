@@ -1,4 +1,4 @@
-#AUTOLIB ELECTRIC CARS ANALYSIS
+AUTOLIB ELECTRIC CARS ANALYSIS
 
 In this project we will do a hypothesis test. 
 
